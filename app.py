@@ -98,23 +98,24 @@ Select the vehicle's specifications below to run the assessment.
 
 developer_info = """
 ### About the Developer
+
 ### Project By
-- **Name:**Sneha
+
+- **Name:** Sneha
 - **Roll No.:** 28240312
 - **College:** PIET
-""",
-)
 
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-* **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
-* **Instagram:** [Follow me](YOUR_INSTAGRAM_URL_HERE)
-
+**LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
+**GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
+**Instagram:** [Follow me](YOUR_INSTAGRAM_URL_HERE)
 ---
+
 ### 🛠️ Tools & Technologies Used
-* **Machine Learning:** XGBoost Classifier
-* **Web Framework:** Gradio
-* **Language:** Python
-* **Deployment:** Render
+
+- **Machine Learning:** XGBoost Classifier
+- **Web Framework:** Gradio
+- **Language:** Python
+- **Deployment:** Render
 """
 # --------------------------------------
 
