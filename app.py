@@ -98,7 +98,12 @@ Select the vehicle's specifications below to run the assessment.
 
 developer_info = """
 ### About the Developer
-**Created by:** Chandan Saroj
+### Project By
+- **Name:**Sneha
+- **Roll No.:** 28240312
+- **College:** PIET
+""",
+)
 
 * **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
 * **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
